@@ -1,4 +1,3 @@
-
 // -1로 초기화된 cache
 int cache[30][30];
 int bino2(int n, int r) {
